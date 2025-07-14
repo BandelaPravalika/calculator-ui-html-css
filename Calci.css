@@ -1,0 +1,39 @@
+table{
+  background-color: black;
+}
+#result
+{
+  color: white;
+  padding: 20px;
+}
+body{
+  background-color: rgb(242, 160, 160);
+  padding: 200px;
+}
+h1{
+  background-color: white;
+  width:350;
+  border-radius: 20px;
+}
+#td11
+{
+  padding-left:10px;
+}
+#td21
+{
+  padding-left:10px;
+}
+#td31
+{
+  padding-left:10px;
+}
+#td41
+{
+  padding-left:10px;
+}
+#td51
+{
+  padding-left:10px;
+}
+
+  
